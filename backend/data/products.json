@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Honor 90",
+        "price": 660.87,
+        "description": "Honor90 is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/1.png"
+            },
+            {
+                "image": "/images/products/honor_90_1.jpg"
+            },
+            {
+                "image": "/images/products/honor_90_2.png"
+            }      
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+    {
+        "name": "iPhone 16 pro-max",
+        "price": 1255.65,
+        "description": "This is the Apple iPhone 16 Pro Max base model with 6 GB RAM and 256 GB of internal storage.",
+        "ratings":4.5,
+        "images": [
+            {
+                "image": "/images/products/2.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 23,
+        "reviews": []
+    },
+
+    {
+        "name": "Smart Watch i8 Pro max ",
+        "price":7.29,
+        "description": "i8 Pro max watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/3.webp"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Dell 3511 WITH MX350 ",
+        "price": 1007.83,
+        "description": "11th Generation Intel® Core™ i5-1135G7 Processor (8MB Cache, up to 4.2 GHz)",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "MacBook Air M3",
+        "price": 1896.70,
+        "description": "Air 13 M3 A bright display, a quad-speaker array and a solid 1080p webcam",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/5.webp"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price":475.50,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/6.jpeg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 4.96,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/7.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+      "name": "Apple Airpods(3rd Gen)",
+      "price": 264.35,
+      "description": "Spatial audio with dynamic head tracking places sound all around you.Note : If the size of the earbud tips does not match the size of your ear canals or the headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance. Change the earbud tips to ones that fit more snugly in your ear",
+      "ratings": 5,
+      "images": [
+          {
+              "image": "/images/products/8.jpg"
+          }
+      ],
+      "category": "Airpods",
+      "seller": "Amazon",
+      "stock": 4,
+      "numOfReviews": 20,
+      "reviews": []
+  }
+    
+]
